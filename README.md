@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Daniel Hernández (@Daniel221), currently a computer science student
-- 👀 I’m interested in web development, mostly backend, but I'm trying to learn everything I can about it
-- 🌱 I’m currently learning node.js and react.js, and a little bit of web3.0
+- 👋 Hi, I’m Daniel Hernández (@Daniel221)
+- 👀 I’m interested in web development, I'm currently working as a back-end developer at Oracle
+- 🌱 I’m currently learning about Machine Learning and AI, seems very interesting
 - 💞️ I’m looking to collaborate on whatever proyect seems interesting
 - 📫 You can reach me through here, or via linkdn: https://www.linkedin.com/in/daniel-hnav/ 
 
